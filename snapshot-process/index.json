@@ -1,0 +1,31 @@
+{
+  "title": "Use the snapshot process gadget",
+  "description": "List all the processes on Kubernetes",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh",
+      "foreground": "foreground.sh"
+    },
+    "steps": [
+      {
+        "title": "Basic commands",
+        "text": "step1.md"
+      },
+      {
+        "title": "Exploring namespaces",
+        "text": "step2.md"
+      },
+      {
+        "title": "Filtering output",
+        "text": "step3.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
