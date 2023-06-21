@@ -3,6 +3,6 @@
 
 ### Welcome !
 
-In this scenario we'll learn how to install Inspektor Gadget on the cluster.
+In this scenario we'll learn how to use the snapshot process gadget.
 
 **HAVE FUN**
