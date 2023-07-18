@@ -1,0 +1,23 @@
+{
+  "title": "kubectl debug node",
+  "description": "How to use Inspektor Gadget with kubectl debug node",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh",
+      "foreground": "foreground.sh"
+    },
+    "steps": [
+      {
+        "title": "Running kubectl debug node",
+        "text": "step1.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

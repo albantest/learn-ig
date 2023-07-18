@@ -1,5 +1,6 @@
 {
   "items": [
+    { "path": "kubectl-debug" },
     { "path": "install" },
     { "path": "snapshot-process" }
   ]
