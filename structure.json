@@ -1,7 +1,8 @@
 {
   "items": [
-    { "path": "kubectl-debug" },
     { "path": "install" },
-    { "path": "snapshot-process" }
+    { "path": "kubectl-debug" },
+    { "path": "snapshot-process" },
+    { "path": "gadget-images" }
   ]
 }

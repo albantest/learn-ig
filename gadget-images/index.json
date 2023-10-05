@@ -1,0 +1,35 @@
+{
+  "title": "Managing gadget images",
+  "description": "Build, push, pull gadget images",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh",
+      "foreground": "foreground.sh"
+    },
+    "steps": [
+      {
+        "title": "Login to a container registry",
+        "text": "step-login.md"
+      },
+      {
+        "title": "Build a gadget",
+        "text": "step-build.md"
+      },
+      {
+        "title": "List local gadgets",
+        "text": "step-list.md"
+      },
+      {
+        "title": "Push and pull gadgets",
+        "text": "step-push.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}
